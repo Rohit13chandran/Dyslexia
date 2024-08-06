@@ -1,7 +1,7 @@
  #Sharing this Python code for detecting dyslexia using eye tracking data. This code is a machine learning approach to classify dyslexia based on eye movement patterns.The key aspects of the code are summerized below:
 
 Data Preparation:
-The code reads data from a CSV file named "nikhila.csv".
+The code reads data from a CSV file.
 It calculates new features 'll' and 'rr' based on eye position coordinates.
 Some columns are dropped, including individual coordinate columns and the 'name' column.
 
